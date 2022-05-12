@@ -1,0 +1,5 @@
+.mainHeader {
+  background-image: url("../assets/background.png");
+  height: 1000px;
+  overflow: hidden;
+}
